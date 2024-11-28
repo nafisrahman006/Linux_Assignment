@@ -12,7 +12,7 @@ This repository contains shell commands for completing common Linux tasks, along
 
 
 -- ./linux_tasks.sh
- 
+
 ## Tasks
 ### File System Navigation
 1. **List the contents of the home directory**:
@@ -59,6 +59,7 @@ This repository contains shell commands for completing common Linux tasks, along
     ![mod](screenshots/chmodreport.txt.png)
 
 6. **File-Modification**:
+
     Creating a user name `student`
 
     ![File-Modification](screenshots/student-user.png)
