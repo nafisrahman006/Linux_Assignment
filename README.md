@@ -7,11 +7,11 @@ This repository contains shell commands for completing common Linux tasks, along
 - `scripts/linux_tasks.sh`: Contains all the Linux commands.
 - `Screenshots/`: Contains screenshots of the command outputs.
 ## Make the Script Executable
--- chmod +x linux_task.sh
+-- `chmod +x linux_task.sh`
 ## Run the Script
 
 
--- ./linux_tasks.sh
+-- `./linux_tasks.sh`
 
 ## Tasks
 ### File System Navigation
